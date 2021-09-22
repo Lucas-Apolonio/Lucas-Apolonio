@@ -1,11 +1,11 @@
 ### Hello! 
 
-- 🔭 I’m currently working at CIEE - Centro de Integração Empresa Escola
-- 🌱 I’m currently learning JavaScript, NodeJS, HTTP, CSS, HTML.
+- 🔭 I’m currently working at S4R Solutions
+- 🌱 I’m currently learning NodeJS
 - 📫 How to reach me: lucas.apolonio.silva@hotmail.com
 
 ### Olá! 
 
-- 🔭 Estou trabalhando atualmente em Centro de Integração Empresa Escola
-- 🌱 Estou estudando JavaScript, NodeJS, HTTP, CSS, HTML.
+- 🔭 Estou trabalhando atualmente em S4R Solutions
+- 🌱 Estou estudando NodeJS
 - 📫 Como pode me contatar: lucas.apolonio.silva@hotmail.com
